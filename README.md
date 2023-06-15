@@ -1,2 +1,2 @@
-# Php-Auth-Example
-Auth System at PHP for Beginners
+# PHP-Auth-Example
+PHP Auth System for Beginners
